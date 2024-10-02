@@ -2,7 +2,7 @@ import requests
 import datetime
 
 USERNAME = "carduibot"
-TOKEN = "dq4e78G95%9i3h"
+TOKEN = ""
 GRAPH_ID = "habits1"
 
 pixela_endpoint = "https://pixe.la/v1/users"
